@@ -3,7 +3,7 @@
 	min-height: 20px;
 	font-family: OpenSans, arial, "sans-serif";
 	padding: 10px 20px;
-	background: rgba(0,0,0,0.6);
+	
 	overflow: hidden;
 	position: fixed;
 	color: #FFF;
@@ -164,9 +164,7 @@ input {
 	z-index: 1;
 }
 
-.white {
-	background-color: #ffffff !important;
-}
+
 
 
  * {
